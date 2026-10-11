@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:36:33	1626/1626	---M-Z	404	error ('Not%20Found')	text/html	etag:%22119f-68074818-1409b05222261c72;br%22	https://bnbxt.org/robots.txt		(from )
+10:36:34	58359/58359	---MCZ	200	added ('OK')	text/html	etag:%22e3f7-6ac7afff-5f07689db328659;br%22	https://bnbxt.org/	C:/My%20Web%20Sites/bnbtx.org/bnbxt.org/index.html	(from )
+10:36:34	9571/9571	---M-Z	200	added ('OK')	application/x-javascript	etag:%222563-6ac7aff8-c8571a86c1bef316;br%22	https://bnbxt.org/app.js	C:/My%20Web%20Sites/bnbtx.org/bnbxt.org/app.js	(from https://bnbxt.org/)
+10:36:36	551520/551520	---M-Z	200	added ('OK')	application/javascript	date:Thu,%2020%20Oct%202022%2004:30:31%20GMT	https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.esm.min.js	C:/My%20Web%20Sites/bnbtx.org/cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.esm.min.js	(from https://bnbxt.org/app.js)
+10:36:38	4511/4511	---M-Z	404	error ('Not%20Found')	text/html	etag:%22119f-68074818-1409b05222261c72;br%22	https://bnbxt.org/For%20more%20details:%20https://docs.ethers.io/api-keys/	C:/My%20Web%20Sites/bnbtx.org/bnbxt.org/For%20more%20details_%20https_/docs.ethers.io/api-keys/index.html	(from https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.esm.min.js)

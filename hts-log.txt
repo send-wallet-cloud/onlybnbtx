@@ -1,0 +1,12 @@
+HTTrack3.50-5 launched on Sun, 11 Oct 2026 10:36:32 at https://bnbxt.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://bnbxt.org/ -O1 "C:\My Web Sites\bnbtx.org" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:36:38	Error: 	"Not Found" (404) at link https://bnbxt.org/For more details: https://docs.ethers.io/api-keys/ (from https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.esm.min.js)
+
+HTTrack Website Copier/3.50-5 mirror complete in 6 seconds : 5 links scanned, 3 files written (619450 bytes overall) [149940 bytes received at 24990 bytes/sec], 625587 bytes transferred using HTTP compression in 5 files, ratio 23%, 1.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
